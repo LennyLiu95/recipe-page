@@ -5,10 +5,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ---
 
-## Preview
-
-![Recipe Page Screenshot](./screenshot.jpg)
-
 **Live Demo:** https://lennyliu95.github.io/recipe-page/
 
 ---
